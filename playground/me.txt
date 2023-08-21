@@ -1,0 +1,5 @@
+{{#user}}
+Name: Devayan Mandal
+Skills: C/C++, Java, Python, HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, Tailwind, EJS, JSX, SQL, MongoDB
+Email: devayan9689@gmail.com
+{{/user}}
